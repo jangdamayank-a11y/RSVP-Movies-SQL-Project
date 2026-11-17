@@ -76,7 +76,7 @@ RSVP-Movies-SQL-Project/
 
 ## 👨‍💻 Author
 
-**Harshit Kumar**
+**Monu**
 
 Data Science | SQL | Python | Data Analytics
 
